@@ -1,0 +1,30 @@
+// Abstract Language Model
+
+x columns
+y rows
+
+MAP = 
+{
+	{},{},...{},
+	.
+	.
+	.
+	{},{},...{},
+}
+
+function drawBoard()
+	// display the board
+end
+
+function getPlayerInput(input)
+	// get the players input
+	// then return the tile they choose
+end
+
+function checkTile(tile)
+	// check if tile is a bomb
+end
+
+function mapClear()
+	// is the map clear?
+end
