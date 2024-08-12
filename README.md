@@ -1,5 +1,5 @@
-# htmag
-htmag project folder
+# (H)ow (T)o (M)ake (A) (G)ame
+(H)ow (T)o (M)ake (A) (G)ame project folder
 
 ## Starters
 I want to thank you for checking out the code.
